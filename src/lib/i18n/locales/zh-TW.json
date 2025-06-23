@@ -221,5 +221,6 @@
   "report_other_description": "其他：不屬於上述其它類別的報告",
   "report_title": "檢舉",
   "report": "檢舉",
-  "report_reason": "原因"
+  "report_reason": "原因",
+  "report_reason_description": "選擇類別"
 }
