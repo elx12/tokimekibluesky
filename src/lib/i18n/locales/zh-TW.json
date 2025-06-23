@@ -261,5 +261,6 @@
   "change_single_column_mode": "切換到單欄模式",
   "change_multi_column_mode": "切換到多欄模式(DECKS)",
   "login_box_text_1_2": "瀏覽器桌面端",
-  "clear_column_posts": "清除發文"
+  "clear_column_posts": "清除發文",
+  "column_add_success": "新增欄成功"
 }
