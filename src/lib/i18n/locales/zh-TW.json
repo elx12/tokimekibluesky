@@ -264,5 +264,6 @@
   "clear_column_posts": "清除發文",
   "column_add_success": "新增欄成功",
   "basic_columns": "基本",
-  "bookmark_columns": "書籤"
+  "bookmark_columns": "書籤",
+  "official_list_columns": "官方用戶列表"
 }
