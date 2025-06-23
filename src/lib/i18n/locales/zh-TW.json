@@ -236,5 +236,6 @@
   "reply_settings_following": "只顯示已跟隨",
   "reply_settings_me": "僅限回覆我",
   "hide_repost_frequency": "顯示轉發數",
-  "hide_reply_frequency": "顯示回覆數"
+  "hide_reply_frequency": "顯示回覆數",
+  "deck_settings": "列表各別設定"
 }
