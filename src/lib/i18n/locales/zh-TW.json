@@ -202,5 +202,6 @@
   "user": "使用者",
   "/search_search": "關鍵字搜尋",
   "/search/user_search": "搜尋使用者",
-  "notifications": "通知"
+  "notifications": "通知",
+  "play_se": "通知音效"
 }
