@@ -170,5 +170,6 @@
   "prefer": "使用系統設定",
   "sample": "範例",
   "settings_about": "關於 TIKIMEKI",
-  "subscribe_button": "訂閱"
+  "subscribe_button": "訂閱",
+  "unsubscribe_button": "取消訂閱"
 }
