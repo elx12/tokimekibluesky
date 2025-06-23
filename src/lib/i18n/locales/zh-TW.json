@@ -240,5 +240,6 @@
   "deck_settings": "列表各別設定",
   "deck_settings_description": "全域設定將被覆蓋",
   "settings_inherit": "援用全域設定",
-  "lang_filter_overwritten": "覆蓋語言過濾設定"
+  "lang_filter_overwritten": "覆蓋語言過濾設定",
+  "auto_refresh": "自動重新載入頁面"
 }
