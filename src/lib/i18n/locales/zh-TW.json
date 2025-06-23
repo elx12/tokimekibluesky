@@ -25,5 +25,6 @@
   "darkmode": "深色模式",
   "do_not_use_noto_sans": "不下載使用遠端字型",
   "theme": "外觀主題",
-  "logout_button": "登出"
+  "logout_button": "登出",
+  "title_thread": "討論串"
 }
