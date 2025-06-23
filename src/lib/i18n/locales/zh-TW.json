@@ -17,5 +17,6 @@
   "publish_button_progress": "處理中",
   "refresh": "重新載入",
   "follows": "已跟隨",
-  "followers": "跟隨者"
+  "followers": "跟隨者",
+  "follows_you": "跟隨您"
 }
