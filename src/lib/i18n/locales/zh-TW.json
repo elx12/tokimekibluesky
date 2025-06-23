@@ -277,5 +277,6 @@
   "workspace_columns_length": "欄",
   "column_opacity": "不透明度(實驗性)",
   "column_background": "背景主題(實驗性)",
-  "popup_column": "浮動欄"
+  "popup_column": "浮動欄",
+  "chat_menu_add_column": "新增到欄"
 }
