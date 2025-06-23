@@ -208,7 +208,7 @@
   "lang_filter_description": "如果您未選擇任何語言，則將顯示所有語言之貼文。語言勾選將用於過濾可顯示貼文的語言。",
   "dev_mode": "顯示開發者資訊",
   "report_spam": "垃圾訊息",
-  "report_spam_description": "頻繁進行不必要的推廣、回覆和提及",
+  "report_spam_description": "頻繁進行強迫推廣、回覆和提及",
   "report_violation": "違規",
   "report_violation_description": "直接違反伺服器規範、法律或使用條款",
   "report_misleading": "誤導訊息",
