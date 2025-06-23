@@ -296,6 +296,7 @@
   "workspace_modal_title": "工作區",
   "workspace_columns_length": "欄",
   "hide_this_button": "隱藏此按鈕",
+  "hide_workspace_button": "隱藏工作區按鈕",
   "column_opacity": "不透明度(實驗性)",
   "column_background": "背景主題(實驗性)",
   "popup_column": "浮動欄",
