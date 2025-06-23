@@ -171,5 +171,6 @@
   "sample": "範例",
   "settings_about": "關於 TIKIMEKI",
   "subscribe_button": "訂閱",
-  "unsubscribe_button": "取消訂閱"
+  "unsubscribe_button": "取消訂閱",
+  "subscribed_button": "已訂閱"
 }
