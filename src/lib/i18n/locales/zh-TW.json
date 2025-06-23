@@ -129,5 +129,6 @@
   "bookmark_save_success": "書籤儲存成功",
   "bookmark_delete_success": "刪除書籤成功",
   "bookmark_add_success": "新增書籤成功",
-  "error_may_duplicate_bookmark": "新增書籤失敗，可能是重複新增。"
+  "error_may_duplicate_bookmark": "新增書籤失敗，可能是重複新增。",
+  "realtime": "實時"
 }
