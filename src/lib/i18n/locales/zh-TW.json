@@ -1,4 +1,5 @@
 {
   "reposted_by": "{name} 已轉發",
-  "reply_to": "回覆 {name}"
+  "reply_to": "回覆 {name}",
+  "delete_post": "刪除發文"
 }
