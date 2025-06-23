@@ -13,5 +13,6 @@
   "send_placeholder1": "有什麼新鮮事？",
   "file_size_too_big": "檔案大小超過上傳限制",
   "unsupported_file": "檔案格式不支援",
-  "publish_button_send": "送出"
+  "publish_button_send": "送出",
+  "publish_button_progress": "處理中"
 }
