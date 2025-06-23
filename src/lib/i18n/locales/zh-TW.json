@@ -158,5 +158,6 @@
   "settings_blocks": "封鎖列表",
   "settings_mutes": "靜音列表",
   "settings_push_notification": "推播通知",
-  "settings": "設定"
+  "settings": "設定",
+  "language_settings": "使用介面語言"
 }
