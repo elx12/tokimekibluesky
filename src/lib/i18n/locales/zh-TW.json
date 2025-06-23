@@ -82,5 +82,6 @@
   "images_uploading": "圖片上傳中",
   "images_upload_success": "圖片上傳成功",
   "images_upload_failed": "圖片上傳失敗",
-  "donation": "支持 TOKIMEKI"
+  "donation": "支持 TOKIMEKI",
+  "muting_this_user": "您已靜音此帳號"
 }
