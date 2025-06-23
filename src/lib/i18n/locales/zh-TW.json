@@ -77,5 +77,6 @@
   "push_settings": "推播通知設定",
   "push_subscription_success": "推播訂閱成功。",
   "push_subscription_failed": "推播訂閱失敗。",
-  "push_subscription_unsubscribe": "已解除推播訂閱。"
+  "push_subscription_unsubscribe": "已解除推播訂閱。",
+  "link_card_embed": "崁入連結"
 }
