@@ -168,5 +168,6 @@
   "light": "淺色",
   "dark": "深色",
   "prefer": "使用系統設定",
-  "sample": "範例"
+  "sample": "範例",
+  "settings_about": "關於 TIKIMEKI"
 }
