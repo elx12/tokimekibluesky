@@ -91,5 +91,6 @@
   "reporting_this_user": "已檢舉此用戶",
   "impersonation": "冒充",
   "login": "登入",
-  "recommend_use_app_password": "建議您採用應用程式密碼"
+  "recommend_use_app_password": "建議您採用應用程式密碼",
+  "details": "詳細資訊"
 }
