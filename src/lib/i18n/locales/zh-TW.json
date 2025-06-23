@@ -29,5 +29,6 @@
   "title_thread": "討論串",
   "page_title_followers": "跟隨者",
   "page_title_follows": "已跟隨",
-  "submit_button_submit": "確認"
+  "submit_button_submit": "確認",
+  "submit_button_progress": "處理中"
 }
