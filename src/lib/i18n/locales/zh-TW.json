@@ -116,5 +116,6 @@
   "error_invalid_text": "錯誤：無效字串。",
   "create_list": "新增列表",
   "warn": "警告",
-  "hide": "隱藏"
+  "hide": "隱藏",
+  "show": "顯示"
 }
