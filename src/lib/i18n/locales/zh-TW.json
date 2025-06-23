@@ -98,5 +98,6 @@
   "liked_users": "點心的人",
   "blocking_this_user": "您已封鎖此使用者",
   "blocked_by_this_user": "您已被此使用者封鎖",
-  "block_user": "封鎖"
+  "block_user": "封鎖",
+  "unblock_user": "解除封鎖"
 }
