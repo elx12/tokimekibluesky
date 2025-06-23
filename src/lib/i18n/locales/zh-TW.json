@@ -148,5 +148,6 @@
   "drafts_save": "儲存草稿",
   "drafts_nothing": "無草稿",
   "draft_add_success": "草稿儲存成功",
-  "draft_delete_success": "草稿刪除成功"
+  "draft_delete_success": "草稿刪除成功",
+  "alt_insert": "插入替代文字"
 }
