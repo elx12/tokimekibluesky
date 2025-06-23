@@ -140,5 +140,6 @@
   "realtime_closing": "切斷中",
   "realtime_closed": "已切斷",
   "continuous_mode": "連續模式",
-  "post_delete_success": "發文已刪除成功"
+  "post_delete_success": "發文已刪除成功",
+  "post_delete_failed": "發文刪除失敗"
 }
