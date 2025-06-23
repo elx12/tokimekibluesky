@@ -138,5 +138,6 @@
   "realtime_connecting": "連線中",
   "realtime_open": "已連接",
   "realtime_closing": "切斷中",
-  "realtime_closed": "已切斷"
+  "realtime_closed": "已切斷",
+  "continuous_mode": "連續模式"
 }
