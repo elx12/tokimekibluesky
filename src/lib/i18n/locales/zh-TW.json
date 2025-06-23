@@ -246,5 +246,6 @@
   "auto_refresh_10s": "10秒",
   "auto_refresh_30s": "30秒",
   "auto_refresh_60s": "60秒",
-  "auto_refresh_5m": "5分鐘"
+  "auto_refresh_5m": "5分鐘",
+  "auto_refresh_10m": "10分鐘"
 }
