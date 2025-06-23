@@ -195,5 +195,6 @@
   "layout": "設計",
   "decks": "面版",
   "column_settings": "新增列表",
-  "active_columns": "現用列表"
+  "active_columns": "現用列表",
+  "inactive_columns": "非活動列表"
 }
