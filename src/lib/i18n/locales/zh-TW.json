@@ -100,5 +100,6 @@
   "blocked_by_this_user": "您已被此使用者封鎖",
   "block_user": "封鎖",
   "unblock_user": "解除封鎖",
-  "error_get_posts_because_blocking": "無法查看發文，因您已封鎖此使用者"
+  "error_get_posts_because_blocking": "無法查看發文，因您已封鎖此使用者",
+  "error_get_posts_because_blocked": "無法查看發文，因您已被此使用者封鎖"
 }
