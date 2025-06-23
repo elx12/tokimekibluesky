@@ -112,5 +112,6 @@
   "import": "匯入",
   "overwrite_current_member": "現有列表成員將會被覆蓋。",
   "remove": "刪除",
-  "success_import_list": "列表匯入成功"
+  "success_import_list": "列表匯入成功",
+  "error_invalid_text": "錯誤：無效字串。"
 }
