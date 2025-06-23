@@ -276,5 +276,6 @@
   "column_list_info": "此欄內容列表資訊",
   "workspace_columns_length": "欄",
   "column_opacity": "不透明度(實驗性)",
-  "column_background": "背景主題(實驗性)"
+  "column_background": "背景主題(實驗性)",
+  "popup_column": "浮動欄"
 }
