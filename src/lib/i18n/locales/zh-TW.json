@@ -52,5 +52,6 @@
   "success_to_post": "發文成功",
   "mentioned_your_post": "提及您的發文",
   "all": "全部",
-  "timeline_settings": "河道設定"
+  "timeline_settings": "河道設定",
+  "hide_repost": "隱藏轉發"
 }
