@@ -56,5 +56,6 @@
   "hide_repost": "隱藏轉發",
   "hide_reply": "隱藏回覆",
   "copy_url": "複製連結",
-  "copy_handle": "複製使用者 ID"
+  "copy_handle": "複製使用者 ID",
+  "success_copy_url": "連結已複製到剪貼簿"
 }
