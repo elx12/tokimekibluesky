@@ -230,5 +230,6 @@
   "repost_settings_all": "顯示全部 (100%)",
   "repost_settings_many": "顯示更多（75%）",
   "repost_settings_soso": "顯示適量(50%)",
-  "repost_settings_less": "顯示較少(25%)"
+  "repost_settings_less": "顯示較少(25%)",
+  "repost_settings_none": "不顯示(0%)"
 }
