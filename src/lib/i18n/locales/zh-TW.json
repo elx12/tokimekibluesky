@@ -37,5 +37,6 @@
   "edit_display_name": "使用者名稱",
   "edit_description": "自我介紹",
   "edit_cancel_button": "刪除",
-  "add_account": "新增帳號"
+  "add_account": "新增帳號",
+  "current": "現在"
 }
