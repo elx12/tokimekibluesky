@@ -218,5 +218,6 @@
   "report_rude": "冒犯",
   "report_rude_description": "冒犯、騷擾、露骨或其他不受歡迎的行為",
   "report_other": "其它",
-  "report_other_description": "其他：不屬於上述其它類別的報告"
+  "report_other_description": "其他：不屬於上述其它類別的報告",
+  "report_title": "檢舉"
 }
