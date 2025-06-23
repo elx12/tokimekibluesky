@@ -178,5 +178,6 @@
   "use_absolute_time": "使用絕對時間",
   "realtime_follows_count": "跟隨者數量",
   "realtime_follows_refresh": "重新讀取使用者列表",
-  "feature_request_form": "功能需求建議表單"
+  "feature_request_form": "功能需求建議表單",
+  "settings_keyword_mutes": "關鍵字靜音"
 }
