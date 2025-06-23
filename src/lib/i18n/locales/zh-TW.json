@@ -10,5 +10,6 @@
   "quoted_your_post": "引用您的發文",
   "replied_your_post": "回覆您的發文",
   "followed_you": "已跟隨您",
-  "send_placeholder1": "有什麼新鮮事？"
+  "send_placeholder1": "有什麼新鮮事？",
+  "file_size_too_big": "檔案大小超過上傳限制"
 }
