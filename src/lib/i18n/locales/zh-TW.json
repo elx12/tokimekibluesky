@@ -207,5 +207,6 @@
   "settings_lang_filter": "語言過濾設定",
   "lang_filter_description": "如果您未選擇任何語言，則將顯示所有語言之貼文。語言勾選將用於過濾可顯示貼文的語言。",
   "dev_mode": "顯示開發者資訊",
-  "report_spam": "垃圾訊息"
+  "report_spam": "垃圾訊息",
+  "report_spam_description": "頻繁進行不必要的推廣、回覆和提及"
 }
