@@ -278,6 +278,7 @@
   "image_save_success": "圖片已儲存",
   "send_placeholder_reply": "回覆 {name} 的發文",
   "liked_your_post_multiple": "與其它人為您的發文點心",
+  "reposted_your_post_multiple": "與其它人轉發了您的發文",
   "column_feed_info": "此欄內容feed資訊",
   "column_list_info": "此欄內容列表資訊",
   "workspace_columns_length": "欄",
