@@ -73,5 +73,6 @@
   "push_text_3": "目前，您仍會收到來自靜音用戶的通知。",
   "push_text_4": "您必須允許應用程式/瀏覽器通知設定。",
   "push_text_5": "請閱讀文件以取得有關支援環境的資訊。",
-  "push_text_6": "僅適用於 bsky.social 帳戶。"
+  "push_text_6": "僅適用於 bsky.social 帳戶。",
+  "push_settings": "推播通知設定"
 }
