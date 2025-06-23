@@ -173,5 +173,6 @@
   "subscribe_button": "訂閱",
   "unsubscribe_button": "取消訂閱",
   "subscribed_button": "已訂閱",
-  "feed_show_button": "查看訂閱"
+  "feed_show_button": "查看訂閱",
+  "feeds_toggle_creator": "顯示作者"
 }
