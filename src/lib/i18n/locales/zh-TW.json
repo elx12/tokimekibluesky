@@ -157,5 +157,6 @@
   "settings_moderation": "內容管理",
   "settings_blocks": "封鎖列表",
   "settings_mutes": "靜音列表",
-  "settings_push_notification": "推播通知"
+  "settings_push_notification": "推播通知",
+  "settings": "設定"
 }
