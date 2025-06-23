@@ -87,5 +87,6 @@
   "mute_user": "靜音",
   "unmute_user": "解除靜音",
   "copy_did": "複製 DID",
-  "success_copy_did": "DID 已複製到剪貼簿"
+  "success_copy_did": "DID 已複製到剪貼簿",
+  "reporting_this_user": "已檢舉此用戶"
 }
