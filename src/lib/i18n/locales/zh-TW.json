@@ -59,5 +59,6 @@
   "copy_handle": "複製使用者 ID",
   "success_copy_url": "連結已複製到剪貼簿",
   "success_copy_handle": "使用者 ID 已複製到剪貼簿",
-  "failed_copy": "複製失敗"
+  "failed_copy": "複製失敗",
+  "media": "媒體"
 }
