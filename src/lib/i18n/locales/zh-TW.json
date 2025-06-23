@@ -198,5 +198,6 @@
   "active_columns": "現用列表",
   "inactive_columns": "非活動列表",
   "data_saver": "節省數據用量",
-  "data_saver_description": "僅適用於 Android Chrome 系列。\n行動下折疊將不載入影像並隱藏大頭貼。"
+  "data_saver_description": "僅適用於 Android Chrome 系列。\n行動下折疊將不載入影像並隱藏大頭貼。",
+  "user": "使用者"
 }
