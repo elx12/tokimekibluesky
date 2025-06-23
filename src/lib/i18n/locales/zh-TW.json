@@ -193,5 +193,6 @@
   "folding": "收合",
   "one_image_no_crop": "單張圖片不裁剪",
   "layout": "設計",
-  "decks": "面版"
+  "decks": "面版",
+  "column_settings": "新增列"
 }
