@@ -281,6 +281,7 @@
   "reposted_your_post_multiple": "與其它人轉發了您的發文",
   "reposted_users": "轉發者",
   "only_show_unread": "只顯示未讀通知",
+  "no_result_only_show_unread": "顯示未讀通知",
   "column_feed_info": "此欄內容feed資訊",
   "column_list_info": "此欄內容列表資訊",
   "workspace_columns_length": "欄",
