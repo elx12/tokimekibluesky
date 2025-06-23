@@ -280,5 +280,6 @@
   "popup_column": "浮動欄",
   "chat_menu_add_column": "新增到欄",
   "columns": "所有欄",
-  "store_column_feed_data": "即使應用程式關閉後，已載入的內容仍會保留（β）"
+  "store_column_feed_data": "即使應用程式關閉後，已載入的內容仍會保留（β）",
+  "columns_reorder": "重新排序"
 }
