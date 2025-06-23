@@ -188,5 +188,6 @@
   "posts_layout": "發文間顯示間隔",
   "posts_image_layout": "圖片顯示間隔",
   "default": "一般",
-  "compact": "緊密"
+  "compact": "緊密",
+  "minimum": "最小"
 }
