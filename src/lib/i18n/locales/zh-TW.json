@@ -109,5 +109,6 @@
   "user_search": "搜尋使用者",
   "import_export": "匯入/匯出",
   "export_clipboard_copy": "匯出(複製到剪貼簿)",
-  "import": "匯入"
+  "import": "匯入",
+  "overwrite_current_member": "現有列表成員將會被覆蓋。"
 }
