@@ -132,5 +132,6 @@
   "error_may_duplicate_bookmark": "新增書籤失敗，可能是重複新增。",
   "realtime": "即時",
   "realtime_connect_status": "即時連線狀態",
-  "realtime_connect_closed": "未連線"
+  "realtime_connect_closed": "未連線",
+  "realtime_success_get_follows": "跟隨列表讀取成功"
 }
