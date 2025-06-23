@@ -126,5 +126,6 @@
   "bookmark_description": "說明",
   "no_bookmark_folder": "無資料夾",
   "save_button": "儲存",
-  "bookmark_save_success": "書籤儲存成功"
+  "bookmark_save_success": "書籤儲存成功",
+  "bookmark_delete_success": "書籤刪除成功"
 }
