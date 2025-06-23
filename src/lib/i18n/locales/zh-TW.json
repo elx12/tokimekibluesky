@@ -200,5 +200,6 @@
   "data_saver": "節省數據用量",
   "data_saver_description": "僅適用於 Android Chrome 系列。\n行動下折疊將不載入影像並隱藏大頭貼。",
   "user": "使用者",
-  "/search_search": "關鍵字搜尋"
+  "/search_search": "關鍵字搜尋",
+  "/search/user_search": "搜尋使用者"
 }
