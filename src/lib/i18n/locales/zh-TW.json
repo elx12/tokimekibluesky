@@ -204,5 +204,6 @@
   "/search/user_search": "搜尋使用者",
   "notifications": "通知",
   "play_se": "通知音效",
-  "settings_lang_filter": "語言過濾設定"
+  "settings_lang_filter": "語言過濾設定",
+  "lang_filter_description": "如果您未選擇任何語言，則將顯示所有語言之貼文。語言勾選將用於確定可顯示貼文的語言。"
 }
