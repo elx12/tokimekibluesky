@@ -184,5 +184,6 @@
   "keyword_period": "靜音時段",
   "keyword_period_setting": "時間設定",
   "add_keyword": "新增關鍵字",
-  "mute_keywords_nothing": "未靜音任何關鍵字。"
+  "mute_keywords_nothing": "未靜音任何關鍵字。",
+  "posts_layout": "發文間顯示間隔"
 }
