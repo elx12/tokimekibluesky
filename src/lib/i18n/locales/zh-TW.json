@@ -145,5 +145,6 @@
   "drafts": "草稿",
   "drafts_quote": "引用",
   "drafts_reply": "回覆",
-  "drafts_save": "儲存草稿"
+  "drafts_save": "儲存草稿",
+  "drafts_nothing": "無草稿"
 }
