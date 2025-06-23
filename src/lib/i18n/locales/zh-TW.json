@@ -226,5 +226,6 @@
   "report_reason_title": "詳細說明(選填)",
   "report_send": "送出",
   "cancel": "取消",
-  "report_send_success": "檢舉已送出。"
+  "report_send_success": "檢舉已送出。",
+  "repost_settings_all": "顯示全部 (100%)"
 }
