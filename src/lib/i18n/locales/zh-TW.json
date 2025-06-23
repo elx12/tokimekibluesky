@@ -179,5 +179,6 @@
   "realtime_follows_count": "跟隨者數量",
   "realtime_follows_refresh": "重新讀取使用者列表",
   "feature_request_form": "功能需求建議表單",
-  "settings_keyword_mutes": "關鍵字靜音"
+  "settings_keyword_mutes": "關鍵字靜音",
+  "keyword": "關鍵字"
 }
