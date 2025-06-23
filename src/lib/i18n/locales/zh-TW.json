@@ -134,5 +134,6 @@
   "realtime_connect_status": "即時連線狀態",
   "realtime_connect_closed": "未連線",
   "realtime_success_get_follows": "跟隨列表讀取成功",
-  "realtime_failed_get_follows": "跟隨列表讀取失敗。"
+  "realtime_failed_get_follows": "跟隨列表讀取失敗。",
+  "realtime_connecting": "連線中"
 }
