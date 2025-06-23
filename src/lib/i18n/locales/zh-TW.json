@@ -123,5 +123,6 @@
   "create_bookmark": "新增資料夾",
   "bookmark_add_management": "書籤資料夾新增管理",
   "bookmark_name": "標題",
-  "bookmark_description": "說明"
+  "bookmark_description": "說明",
+  "no_bookmark_folder": "無資料夾"
 }
