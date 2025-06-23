@@ -167,5 +167,6 @@
   "settings_invite_codes": "邀請碼",
   "light": "淺色",
   "dark": "深色",
-  "prefer": "使用系統設定"
+  "prefer": "使用系統設定",
+  "sample": "範例"
 }
