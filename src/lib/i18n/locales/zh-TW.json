@@ -166,5 +166,6 @@
   "active_codes": "有效的邀請碼",
   "settings_invite_codes": "邀請碼",
   "light": "淺色",
-  "dark": "深色"
+  "dark": "深色",
+  "prefer": "使用系統設定"
 }
