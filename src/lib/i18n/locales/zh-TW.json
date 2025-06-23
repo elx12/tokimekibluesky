@@ -139,5 +139,6 @@
   "realtime_open": "已連接",
   "realtime_closing": "切斷中",
   "realtime_closed": "已切斷",
-  "continuous_mode": "連續模式"
+  "continuous_mode": "連續模式",
+  "post_delete_success": "刪除發文成功"
 }
