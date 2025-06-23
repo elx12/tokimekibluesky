@@ -104,5 +104,6 @@
   "error_get_posts_because_blocked": "無法查看發文，因您已被此使用者封鎖",
   "error_get_posts_because_blocked_or_blocking": "無法查看發文，因您正被此使用者封鎖或之前已被封鎖",
   "list_add_management": "本機列表新增與管理",
-  "list_name": "列表名稱"
+  "list_name": "列表名稱",
+  "list_member": "列表成員(建議最多10人)"
 }
