@@ -181,5 +181,6 @@
   "feature_request_form": "功能需求建議表單",
   "settings_keyword_mutes": "關鍵字靜音",
   "keyword": "關鍵字",
-  "keyword_period": "靜音時段"
+  "keyword_period": "靜音時段",
+  "keyword_period_setting": "時間設定"
 }
