@@ -194,5 +194,6 @@
   "one_image_no_crop": "單張圖片不裁剪",
   "layout": "設計",
   "decks": "面版",
-  "column_settings": "新增列表"
+  "column_settings": "新增列表",
+  "active_columns": "現用列表"
 }
