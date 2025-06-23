@@ -216,5 +216,6 @@
   "report_sexual": "色情",
   "report_sexual_description": "不受歡迎或錯誤標示的色情內容",
   "report_rude": "冒犯",
-  "report_rude_description": "冒犯、騷擾、露骨或其他不受歡迎的行為"
+  "report_rude_description": "冒犯、騷擾、露骨或其他不受歡迎的行為",
+  "report_other": "其它"
 }
