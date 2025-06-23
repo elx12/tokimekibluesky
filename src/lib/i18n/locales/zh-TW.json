@@ -213,5 +213,6 @@
   "report_violation_description": "直接違反伺服器規範、法律或使用條款",
   "report_misleading": "誤導訊息",
   "report_misleading_description": "誤導性的身分、從屬關係或內容",
-  "report_sexual": "色情"
+  "report_sexual": "色情",
+  "report_sexual_description": "不受歡迎或錯誤標示的色情內容"
 }
