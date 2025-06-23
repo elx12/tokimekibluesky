@@ -106,5 +106,6 @@
   "list_add_management": "本機列表新增與管理",
   "list_name": "列表名稱",
   "list_member": "列表成員(建議最多10人)",
-  "user_search": "搜尋使用者"
+  "user_search": "搜尋使用者",
+  "import_export": "匯入/匯出"
 }
