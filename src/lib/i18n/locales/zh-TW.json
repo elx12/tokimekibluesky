@@ -225,5 +225,6 @@
   "report_reason_description": "選擇類別",
   "report_reason_title": "詳細說明(選填)",
   "report_send": "送出",
-  "cancel": "取消"
+  "cancel": "取消",
+  "report_send_success": "檢舉已送出。"
 }
