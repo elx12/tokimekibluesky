@@ -111,5 +111,6 @@
   "export_clipboard_copy": "匯出(複製到剪貼簿)",
   "import": "匯入",
   "overwrite_current_member": "現有列表成員將會被覆蓋。",
-  "remove": "刪除"
+  "remove": "刪除",
+  "success_import_list": "列表匯入成功"
 }
