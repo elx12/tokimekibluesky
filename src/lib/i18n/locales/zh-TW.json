@@ -266,5 +266,6 @@
   "basic_columns": "基本",
   "bookmark_columns": "書籤",
   "official_list_columns": "官方用戶列表",
-  "local_list_columns": "本機列表"
+  "local_list_columns": "本機列表",
+  "feed_columns": "自訂 feed"
 }
