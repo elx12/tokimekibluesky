@@ -163,5 +163,6 @@
   "mentions": "提及",
   "follow": "跟隨",
   "follower": "跟隨者",
-  "active_codes": "有效的邀請碼"
+  "active_codes": "有效的邀請碼",
+  "settings_invite_codes": "邀請碼"
 }
