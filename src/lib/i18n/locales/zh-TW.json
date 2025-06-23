@@ -43,5 +43,6 @@
   "close_button": "關閉",
   "document": "文件",
   "current_account": "現用帳號",
-  "search_button": "搜尋"
+  "search_button": "搜尋",
+  "keywords_search_experimental": "關鍵字搜尋"
 }
