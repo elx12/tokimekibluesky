@@ -59,7 +59,7 @@
   "copy_handle": "複製使用者 ID",
   "success_copy_url": "連結已複製到剪貼簿",
   "success_copy_handle": "使用者 ID 已複製到剪貼簿",
-  "failed_copy": "複製失敗",
+  "failed_copy": "複製到剪貼簿失敗",
   "media": "媒體",
   "you": "您",
   "about_text1": "TOKIMEKI 是 Bluesky 的第三方應用程式。由於目前仍在開發中，您可能會遇到意想不到的問題。使用風險自負，請向我們提供使用者回饋！\n讓我們一起享受樂趣吧🌈🌈🌈",
