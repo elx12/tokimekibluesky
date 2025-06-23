@@ -268,5 +268,6 @@
   "official_list_columns": "官方用戶列表",
   "local_list_columns": "本機列表",
   "feed_columns": "自訂 feed",
-  "active_columns_description": "您可以釘選及重新排序"
+  "active_columns_description": "您可以釘選及重新排序",
+  "welcome_to_tokimeki_text2": "點擊左上角的「+」按鈕來新增通知和自訂動態等欄。\n如果您不知道如何使用，請隨時諮詢@tokimeki.blue"
 }
