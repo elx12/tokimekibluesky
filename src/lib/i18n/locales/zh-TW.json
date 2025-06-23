@@ -68,5 +68,7 @@
   "about_subhead": "青空的聲響 TOKIMEKI",
   "push_toggle_switch": "開啟推播通知",
   "push_notes": "注意事項",
-  "push_text_1": "以下訊息將發送至資料庫"
+  "push_text_1": "以下訊息將發送至資料庫",
+  "push_text_2": "（未發送或接收需要身份驗證的資料。）",
+  "push_text_3": "目前，您仍會收到來自靜音用戶的通知。"
 }
