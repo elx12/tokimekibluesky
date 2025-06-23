@@ -243,5 +243,6 @@
   "lang_filter_overwritten": "覆蓋語言過濾設定",
   "auto_refresh": "自動重新載入頁面",
   "auto_refresh_nothing": "不刷新",
-  "auto_refresh_10s": "10秒"
+  "auto_refresh_10s": "10秒",
+  "auto_refresh_30s": "30秒"
 }
