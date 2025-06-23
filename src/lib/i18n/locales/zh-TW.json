@@ -253,5 +253,6 @@
   "add_thread_column": "新增列表欄",
   "column_account_missing_text_1": "{name} 尚未被新增到使用中的工作區. 請從工作區設定新增或移除此列表顯示欄。",
   "column_account_missing_text_2": "此欄的來源無法識別，此欄因更新已無法載入內容，請將其刪除並重新新增。",
-  "decks_empty_title": "此欄無內容"
+  "decks_empty_title": "此欄無內容",
+  "feed_quick_add": "快速新增欄"
 }
