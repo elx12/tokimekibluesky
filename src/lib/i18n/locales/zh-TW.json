@@ -183,5 +183,6 @@
   "keyword": "關鍵字",
   "keyword_period": "靜音時段",
   "keyword_period_setting": "時間設定",
-  "add_keyword": "新增關鍵字"
+  "add_keyword": "新增關鍵字",
+  "mute_keywords_nothing": "未靜音任何關鍵字。"
 }
