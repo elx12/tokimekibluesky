@@ -137,5 +137,6 @@
   "realtime_failed_get_follows": "跟隨列表讀取失敗。",
   "realtime_connecting": "連線中",
   "realtime_open": "已連接",
-  "realtime_closing": "切斷中"
+  "realtime_closing": "切斷中",
+  "realtime_closed": "已切斷"
 }
