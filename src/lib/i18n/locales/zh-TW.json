@@ -238,5 +238,6 @@
   "hide_repost_frequency": "顯示轉發數",
   "hide_reply_frequency": "顯示回覆數",
   "deck_settings": "列表各別設定",
-  "deck_settings_description": "全域設定將被覆蓋"
+  "deck_settings_description": "全域設定將被覆蓋",
+  "settings_inherit": "援用全域設定"
 }
