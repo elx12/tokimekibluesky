@@ -1,3 +1,4 @@
 {
-  "reposted_by": "{name} 已轉發"
+  "reposted_by": "{name} 已轉發",
+  "reply_to": "回覆 {name}"
 }
