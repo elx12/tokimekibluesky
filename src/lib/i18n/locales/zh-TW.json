@@ -12,5 +12,6 @@
   "followed_you": "已跟隨您",
   "send_placeholder1": "有什麼新鮮事？",
   "file_size_too_big": "檔案大小超過上傳限制",
-  "unsupported_file": "檔案格式不支援"
+  "unsupported_file": "檔案格式不支援",
+  "publish_button_send": "發文"
 }
