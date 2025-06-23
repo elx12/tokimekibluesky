@@ -142,5 +142,6 @@
   "continuous_mode": "連續模式",
   "post_delete_success": "發文已刪除成功",
   "post_delete_failed": "發文刪除失敗",
-  "drafts": "草稿"
+  "drafts": "草稿",
+  "drafts_quote": "引用"
 }
