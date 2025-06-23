@@ -155,5 +155,6 @@
   "settings_design": "外觀",
   "settings_timeline": "河道設定",
   "settings_moderation": "內容管理",
-  "settings_blocks": "封鎖列表"
+  "settings_blocks": "封鎖列表",
+  "settings_mutes": "靜音列表"
 }
