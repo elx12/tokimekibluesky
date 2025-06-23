@@ -94,5 +94,6 @@
   "recommend_use_app_password": "建議您採用應用程式密碼",
   "details": "詳細資訊",
   "url_app_password": "https://tokimekibluesky-docs.vercel.app/apppassword",
-  "unfollow_button": "取消跟隨"
+  "unfollow_button": "取消跟隨",
+  "liked_users": "點心的人"
 }
