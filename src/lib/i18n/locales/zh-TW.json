@@ -3,5 +3,6 @@
   "reply_to": "回覆 {name}",
   "delete_post": "刪除發文",
   "quote_post": "引用發文",
-  "show_thread": "展開討論串"
+  "show_thread": "展開討論串",
+  "translation": "翻譯"
 }
