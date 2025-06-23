@@ -107,5 +107,6 @@
   "list_name": "列表名稱",
   "list_member": "列表成員(建議最多10人)",
   "user_search": "搜尋使用者",
-  "import_export": "匯入/匯出"
+  "import_export": "匯入/匯出",
+  "export_clipboard_copy": "匯出(複製到剪貼簿)"
 }
