@@ -85,5 +85,6 @@
   "donation": "支持 TOKIMEKI",
   "muting_this_user": "您已靜音此帳號",
   "mute_user": "靜音",
-  "unmute_user": "解除靜音"
+  "unmute_user": "解除靜音",
+  "copy_did": "複製 DID"
 }
